@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+taehyun:
+  username: taehyun
+  name: Taehyun Lee
+  location: Seoul, Korea
+  url_full: https://github.com/t-hyun
+  url: github.com/t-hyun
+  bio: Some newbie
+  picture: assets/images/estherbunny.jpg
+  facebook: False
+  twitter: False
+  cover: False
